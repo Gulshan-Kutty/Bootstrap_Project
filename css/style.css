@@ -1,0 +1,127 @@
+.navbar-nav {
+    float: right;
+}
+
+.navbar{
+    margin-bottom:0 ;
+}
+
+.btn-default-1 {
+  width: 120px;
+  border-radius: 20px;
+}
+
+.btn-default-1 {
+    color: #fff;
+    background-color: red;
+
+}
+
+.navbar-default .navbar-nav .home a {
+    color: red;
+}
+.jumbo1{
+    background-color: #f4640d1a;
+}
+.jumbo1 h1{
+    font-size: 50px;
+}
+
+.jumbo1 p{
+    font-size: 20px;
+}
+
+.jumbotron{
+    margin-bottom:0 ;
+}
+
+.jumbo2{
+    background-color: white;
+}
+
+.jumbo2 img{
+    margin-top: 15px;
+}
+
+.jumbo2 h2{
+    font-size: 40px;
+}
+
+.jumbo2 p{
+    font-size: 15px;
+}
+
+.jumbo2 .col-lg-6{
+    padding-left: 0;
+}
+
+.container i{
+    font-size: 25px;
+    color: red;
+}
+
+.jumbo2 h3{
+    margin-top: 8px;
+    font-size: 25px;
+}
+
+.row1{
+    background-color: #f4640d1a;
+    padding: 30px 0;
+}
+
+.row1 .col-lg-3{
+    text-align: center;
+    padding: 10px 10px;
+ }
+
+ .thumb{
+    border-radius: 10px;
+    padding: 20px;
+ }
+
+ .row1 .title{
+    text-align: center;
+    opacity: 0.5;
+ }
+
+ .row1 .para{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 30px;
+    position: relative;
+ }
+
+ .row1 h3{
+    font-size: 20px;
+    margin-top: 15px;
+ }
+
+ .row1 .para:before {
+    content: "";
+    position: absolute;
+    width: 34px;
+    height: 2px;
+    background: red;
+    bottom: -7px;
+    left: 50%;
+    right: -41px;
+    transform: translateX(-50%);
+}
+
+.thumb1{
+    padding: 0;
+    border: 0;
+}
+
+.row2{
+    background-color: white;
+}
+
+.thumb1 img{
+    border-radius: 8px;
+}
+
+
+
+
